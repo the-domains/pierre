@@ -1,7 +1,7 @@
 name: Pierre
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.49309
+layout_spectrum: 0.013695406261831522
+typography_spectrum: 0.12824663892388344
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#ccc6a4'
-    - '#414141'
-    - '#767676'
-  brandStrength: 0.1875
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2394765825010836
   lightness: 0.8973003840073943
-  saturation: 0.5625
-  rhythmicContrast: 0.75
+  saturation: 0.3034076956100762
+  rhythmicContrast: 0.3836777079850435
 purpose: []
